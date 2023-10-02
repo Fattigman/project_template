@@ -4,3 +4,4 @@ channels:
 dependencies:
 - python
 - r-base
+- r-essentials
