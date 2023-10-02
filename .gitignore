@@ -10,8 +10,10 @@ scratch
 # ignore OS generated files
 .DS_Store
 Thumbs.db
-
+# ignore raw data
+data/*/*
 # -------------------------
 # Whitelisted files
 # -------------------------
 !.gitignore
+!data/*/README.md
