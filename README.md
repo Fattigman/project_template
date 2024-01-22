@@ -27,7 +27,6 @@ project
 |  |- reports/
 |
 |- .gitignore          sets which parts of the repository that should be git tracked
-|- Snakefile           project workflow, carries out analysis contained in code/
 |- config.yml          configuration of the project workflow
 |- environment.yml     software dependencies list, used to create a project environment
 |- Dockerfile          recipe to create a project container
